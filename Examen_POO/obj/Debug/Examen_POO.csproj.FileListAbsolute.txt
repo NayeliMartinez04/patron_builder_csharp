@@ -1,0 +1,6 @@
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\bin\Debug\Examen_POO.exe.config
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\bin\Debug\Examen_POO.exe
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\bin\Debug\Examen_POO.pdb
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\obj\Debug\Examen_POO.csprojResolveAssemblyReference.cache
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\obj\Debug\Examen_POO.exe
+c:\users\pasante\documents\visual studio 2013\Projects\Examen_POO\Examen_POO\obj\Debug\Examen_POO.pdb
